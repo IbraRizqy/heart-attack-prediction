@@ -5,6 +5,6 @@ I built a heart attack prediction model using data from Kaggle. I used **Logisti
 - 📊 **Data**: Includes features like age, cholesterol, blood pressure, etc.  
 - ⚙️ **Models**: Random Forest performed slightly better than Logistic Regression.  
 - 🧪 **Tuning**: Used `GridSearchCV` to find the best parameters.  
-- ✅ **Result**: Both models showed solid performance with balanced metrics.
+- ✅ **Result**: Random Forest overall gave much better accuracy and generalization.
 
 Built using **Python**, **scikit-learn**, and **Jupyter Notebook**.
